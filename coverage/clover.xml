@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1765274504925" clover="3.2.0">
-  <project timestamp="1765274504925" name="All files">
-    <metrics statements="1532" coveredstatements="121" conditionals="1266" coveredconditionals="35" methods="249" coveredmethods="14" elements="3047" coveredelements="170" complexity="0" loc="1532" ncloc="1532" packages="2" files="186" classes="186"/>
+<coverage generated="1765282150490" clover="3.2.0">
+  <project timestamp="1765282150490" name="All files">
+    <metrics statements="1532" coveredstatements="252" conditionals="1266" coveredconditionals="151" methods="249" coveredmethods="35" elements="3047" coveredelements="438" complexity="0" loc="1532" ncloc="1532" packages="2" files="186" classes="186"/>
     <package name="src">
-      <metrics statements="201" coveredstatements="21" conditionals="224" coveredconditionals="15" methods="48" coveredmethods="7"/>
-      <file name="add.js" path="/home/gifu/tty/soft_test/src/add.js">
+      <metrics statements="201" coveredstatements="94" conditionals="224" coveredconditionals="89" methods="48" coveredmethods="17"/>
+      <file name="add.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\add.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="16" count="5" type="stmt"/>
       </file>
-      <file name="at.js" path="/home/gifu/tty/soft_test/src/at.js">
+      <file name="at.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\at.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="19" count="0" type="stmt"/>
       </file>
-      <file name="camelCase.js" path="/home/gifu/tty/soft_test/src/camelCase.js">
+      <file name="camelCase.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\camelCase.js">
         <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="24" count="1" type="stmt"/>
         <line num="25" count="5" type="stmt"/>
         <line num="26" count="7" type="stmt"/>
         <line num="27" count="7" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="capitalize.js" path="/home/gifu/tty/soft_test/src/capitalize.js">
+      <file name="capitalize.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\capitalize.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="17" count="0" type="stmt"/>
       </file>
-      <file name="castArray.js" path="/home/gifu/tty/soft_test/src/castArray.js">
+      <file name="castArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\castArray.js">
         <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="34" count="0" type="stmt"/>
         <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="ceil.js" path="/home/gifu/tty/soft_test/src/ceil.js">
-        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="22" count="0" type="stmt"/>
+      <file name="ceil.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\ceil.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="22" count="1" type="stmt"/>
       </file>
-      <file name="chunk.js" path="/home/gifu/tty/soft_test/src/chunk.js">
+      <file name="chunk.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\chunk.js">
         <metrics statements="10" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="23" count="0" type="stmt"/>
         <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -45,7 +45,7 @@
         <line num="33" count="0" type="stmt"/>
         <line num="35" count="0" type="stmt"/>
       </file>
-      <file name="clamp.js" path="/home/gifu/tty/soft_test/src/clamp.js">
+      <file name="clamp.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\clamp.js">
         <metrics statements="9" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="19" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
@@ -57,16 +57,16 @@
         <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="28" count="0" type="stmt"/>
       </file>
-      <file name="compact.js" path="/home/gifu/tty/soft_test/src/compact.js">
-        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="16" count="0" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="23" count="0" type="stmt"/>
+      <file name="compact.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\compact.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="38" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="15" type="stmt"/>
+        <line num="23" count="8" type="stmt"/>
       </file>
-      <file name="countBy.js" path="/home/gifu/tty/soft_test/src/countBy.js">
+      <file name="countBy.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\countBy.js">
         <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
         <line num="30" count="0" type="stmt"/>
@@ -76,28 +76,28 @@
         <line num="35" count="0" type="stmt"/>
         <line num="37" count="0" type="stmt"/>
       </file>
-      <file name="defaultTo.js" path="/home/gifu/tty/soft_test/src/defaultTo.js">
+      <file name="defaultTo.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\defaultTo.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="defaultToAny.js" path="/home/gifu/tty/soft_test/src/defaultToAny.js">
+      <file name="defaultToAny.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\defaultToAny.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="29" count="0" type="stmt"/>
       </file>
-      <file name="difference.js" path="/home/gifu/tty/soft_test/src/difference.js">
+      <file name="difference.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\difference.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="divide.js" path="/home/gifu/tty/soft_test/src/divide.js">
+      <file name="divide.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\divide.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="16" count="0" type="stmt"/>
       </file>
-      <file name="drop.js" path="/home/gifu/tty/soft_test/src/drop.js">
+      <file name="drop.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\drop.js">
         <metrics statements="2" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="endsWith.js" path="/home/gifu/tty/soft_test/src/endsWith.js">
+      <file name="endsWith.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\endsWith.js">
         <metrics statements="9" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="24" count="0" type="stmt"/>
         <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -109,11 +109,11 @@
         <line num="33" count="0" type="stmt"/>
         <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="eq.js" path="/home/gifu/tty/soft_test/src/eq.js">
+      <file name="eq.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\eq.js">
         <metrics statements="1" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="32" count="0" type="cond" truecount="0" falsecount="3"/>
       </file>
-      <file name="every.js" path="/home/gifu/tty/soft_test/src/every.js">
+      <file name="every.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\every.js">
         <metrics statements="6" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="23" count="0" type="stmt"/>
         <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -122,104 +122,104 @@
         <line num="28" count="0" type="stmt"/>
         <line num="31" count="0" type="stmt"/>
       </file>
-      <file name="filter.js" path="/home/gifu/tty/soft_test/src/filter.js">
-        <metrics statements="9" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="26" count="0" type="stmt"/>
-        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="28" count="0" type="stmt"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="31" count="0" type="stmt"/>
-        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="33" count="0" type="stmt"/>
-        <line num="36" count="0" type="stmt"/>
+      <file name="filter.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\filter.js">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="31" count="18" type="stmt"/>
+        <line num="32" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="10" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
       </file>
-      <file name="get.js" path="/home/gifu/tty/soft_test/src/get.js">
+      <file name="get.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\get.js">
         <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="isArguments.js" path="/home/gifu/tty/soft_test/src/isArguments.js">
+      <file name="isArguments.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isArguments.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="isArrayLike.js" path="/home/gifu/tty/soft_test/src/isArrayLike.js">
-        <metrics statements="1" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="27" count="0" type="cond" truecount="0" falsecount="3"/>
+      <file name="isArrayLike.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isArrayLike.js">
+        <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="27" count="16" type="cond" truecount="3" falsecount="0"/>
       </file>
-      <file name="isArrayLikeObject.js" path="/home/gifu/tty/soft_test/src/isArrayLikeObject.js">
+      <file name="isArrayLikeObject.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isArrayLikeObject.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="isBoolean.js" path="/home/gifu/tty/soft_test/src/isBoolean.js">
+      <file name="isBoolean.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isBoolean.js">
         <metrics statements="1" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="isBuffer.js" path="/home/gifu/tty/soft_test/src/isBuffer.js">
-        <metrics statements="6" coveredstatements="0" conditionals="17" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="7" count="0" type="cond" truecount="0" falsecount="5"/>
-        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="isBuffer.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isBuffer.js">
+        <metrics statements="6" coveredstatements="6" conditionals="17" coveredconditionals="7" methods="1" coveredmethods="0"/>
+        <line num="4" count="2" type="cond" truecount="1" falsecount="3"/>
+        <line num="7" count="2" type="cond" truecount="1" falsecount="4"/>
+        <line num="10" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="2" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="isDate.js" path="/home/gifu/tty/soft_test/src/isDate.js">
+      <file name="isDate.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isDate.js">
         <metrics statements="4" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="24" count="0" type="stmt"/>
         <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="isEmpty.js" path="/home/gifu/tty/soft_test/src/isEmpty.js">
-        <metrics statements="14" coveredstatements="0" conditionals="19" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="46" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="47" count="0" type="stmt"/>
-        <line num="49" count="0" type="cond" truecount="0" falsecount="9"/>
-        <line num="52" count="0" type="stmt"/>
-        <line num="54" count="0" type="stmt"/>
-        <line num="55" count="0" type="cond" truecount="0" falsecount="4"/>
+      <file name="isEmpty.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isEmpty.js">
+        <metrics statements="14" coveredstatements="12" conditionals="19" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="46" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="9" type="cond" truecount="5" falsecount="4"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="54" count="6" type="stmt"/>
+        <line num="55" count="6" type="cond" truecount="3" falsecount="1"/>
         <line num="56" count="0" type="stmt"/>
-        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="58" count="6" type="cond" truecount="1" falsecount="1"/>
         <line num="59" count="0" type="stmt"/>
-        <line num="61" count="0" type="stmt"/>
-        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="63" count="0" type="stmt"/>
-        <line num="66" count="0" type="stmt"/>
+        <line num="61" count="6" type="stmt"/>
+        <line num="62" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="63" count="2" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
       </file>
-      <file name="isLength.js" path="/home/gifu/tty/soft_test/src/isLength.js">
-        <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="0" type="stmt"/>
-        <line num="29" count="0" type="cond" truecount="0" falsecount="4"/>
+      <file name="isLength.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isLength.js">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="29" count="15" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="isObject.js" path="/home/gifu/tty/soft_test/src/isObject.js">
-        <metrics statements="2" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="26" count="0" type="cond" truecount="0" falsecount="3"/>
+      <file name="isObject.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isObject.js">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="25" count="21" type="stmt"/>
+        <line num="26" count="21" type="cond" truecount="3" falsecount="0"/>
       </file>
-      <file name="isObjectLike.js" path="/home/gifu/tty/soft_test/src/isObjectLike.js">
+      <file name="isObjectLike.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isObjectLike.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="isSymbol.js" path="/home/gifu/tty/soft_test/src/isSymbol.js">
-        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="19" count="1" type="stmt"/>
-        <line num="20" count="1" type="cond" truecount="2" falsecount="2"/>
+      <file name="isSymbol.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isSymbol.js">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="19" count="17" type="stmt"/>
+        <line num="20" count="17" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="isTypedArray.js" path="/home/gifu/tty/soft_test/src/isTypedArray.js">
-        <metrics statements="5" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="isTypedArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\isTypedArray.js">
+        <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="2" methods="2" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="27" count="0" type="stmt"/>
         <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="keys.js" path="/home/gifu/tty/soft_test/src/keys.js">
-        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="keys.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\keys.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="32" count="3" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="map.js" path="/home/gifu/tty/soft_test/src/map.js">
+      <file name="map.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\map.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="20" count="0" type="stmt"/>
         <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -228,7 +228,7 @@
         <line num="25" count="0" type="stmt"/>
         <line num="27" count="0" type="stmt"/>
       </file>
-      <file name="memoize.js" path="/home/gifu/tty/soft_test/src/memoize.js">
+      <file name="memoize.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\memoize.js">
         <metrics statements="13" coveredstatements="0" conditionals="13" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="44" count="0" type="cond" truecount="0" falsecount="5"/>
         <line num="45" count="0" type="stmt"/>
@@ -244,13 +244,13 @@
         <line num="59" count="0" type="stmt"/>
         <line num="62" count="0" type="stmt"/>
       </file>
-      <file name="reduce.js" path="/home/gifu/tty/soft_test/src/reduce.js">
-        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="39" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="40" count="0" type="stmt"/>
-        <line num="41" count="0" type="stmt"/>
+      <file name="reduce.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\reduce.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="39" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="7" type="stmt"/>
+        <line num="41" count="7" type="stmt"/>
       </file>
-      <file name="slice.js" path="/home/gifu/tty/soft_test/src/slice.js">
+      <file name="slice.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\slice.js">
         <metrics statements="16" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -269,46 +269,46 @@
         <line num="41" count="0" type="stmt"/>
         <line num="43" count="0" type="stmt"/>
       </file>
-      <file name="toFinite.js" path="/home/gifu/tty/soft_test/src/toFinite.js">
-        <metrics statements="9" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="32" count="0" type="stmt"/>
-        <line num="33" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="35" count="0" type="stmt"/>
-        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="toFinite.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\toFinite.js">
+        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="29" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="33" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="34" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="37" count="6" type="cond" truecount="2" falsecount="0"/>
       </file>
-      <file name="toInteger.js" path="/home/gifu/tty/soft_test/src/toInteger.js">
+      <file name="toInteger.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\toInteger.js">
         <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="29" count="0" type="stmt"/>
         <line num="30" count="0" type="stmt"/>
         <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="toNumber.js" path="/home/gifu/tty/soft_test/src/toNumber.js">
-        <metrics statements="18" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="14" count="0" type="stmt"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="46" count="0" type="stmt"/>
-        <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="49" count="0" type="stmt"/>
-        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="58" count="0" type="stmt"/>
-        <line num="59" count="0" type="stmt"/>
-        <line num="60" count="0" type="cond" truecount="0" falsecount="4"/>
+      <file name="toNumber.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\toNumber.js">
+        <metrics statements="18" coveredstatements="18" conditionals="22" coveredconditionals="20" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="45" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="7" type="stmt"/>
+        <line num="48" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="58" count="13" type="stmt"/>
+        <line num="59" count="13" type="stmt"/>
+        <line num="60" count="13" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="toString.js" path="/home/gifu/tty/soft_test/src/toString.js">
+      <file name="toString.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\toString.js">
         <metrics statements="9" coveredstatements="7" conditionals="12" coveredconditionals="6" methods="2" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
         <line num="28" count="5" type="cond" truecount="2" falsecount="0"/>
@@ -320,11 +320,11 @@
         <line num="38" count="1" type="stmt"/>
         <line num="39" count="1" type="cond" truecount="2" falsecount="2"/>
       </file>
-      <file name="upperFirst.js" path="/home/gifu/tty/soft_test/src/upperFirst.js">
+      <file name="upperFirst.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\upperFirst.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="19" count="1" type="stmt"/>
       </file>
-      <file name="words.js" path="/home/gifu/tty/soft_test/src/words.js">
+      <file name="words.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\words.js">
         <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="2"/>
         <line num="3" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
@@ -336,8 +336,8 @@
       </file>
     </package>
     <package name="src..internal">
-      <metrics statements="1331" coveredstatements="100" conditionals="1042" coveredconditionals="20" methods="201" coveredmethods="7"/>
-      <file name="Hash.js" path="/home/gifu/tty/soft_test/src/.internal/Hash.js">
+      <metrics statements="1331" coveredstatements="158" conditionals="1042" coveredconditionals="62" methods="201" coveredmethods="18"/>
+      <file name="Hash.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\Hash.js">
         <metrics statements="21" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -361,7 +361,7 @@
         <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="84" count="0" type="stmt"/>
       </file>
-      <file name="ListCache.js" path="/home/gifu/tty/soft_test/src/.internal/ListCache.js">
+      <file name="ListCache.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\ListCache.js">
         <metrics statements="29" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -393,7 +393,7 @@
         <line num="97" count="0" type="stmt"/>
         <line num="99" count="0" type="stmt"/>
       </file>
-      <file name="MapCache.js" path="/home/gifu/tty/soft_test/src/.internal/MapCache.js">
+      <file name="MapCache.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\MapCache.js">
         <metrics statements="22" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="8" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -418,7 +418,7 @@
         <line num="115" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="116" count="0" type="stmt"/>
       </file>
-      <file name="SetCache.js" path="/home/gifu/tty/soft_test/src/.internal/SetCache.js">
+      <file name="SetCache.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\SetCache.js">
         <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
@@ -431,7 +431,7 @@
         <line num="46" count="0" type="stmt"/>
         <line num="50" count="0" type="stmt"/>
       </file>
-      <file name="Stack.js" path="/home/gifu/tty/soft_test/src/.internal/Stack.js">
+      <file name="Stack.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\Stack.js">
         <metrics statements="22" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
         <line num="17" count="0" type="stmt"/>
@@ -456,17 +456,17 @@
         <line num="88" count="0" type="stmt"/>
         <line num="89" count="0" type="stmt"/>
       </file>
-      <file name="addMapEntry.js" path="/home/gifu/tty/soft_test/src/.internal/addMapEntry.js">
+      <file name="addMapEntry.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\addMapEntry.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
       </file>
-      <file name="addSetEntry.js" path="/home/gifu/tty/soft_test/src/.internal/addSetEntry.js">
+      <file name="addSetEntry.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\addSetEntry.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
       </file>
-      <file name="arrayEach.js" path="/home/gifu/tty/soft_test/src/.internal/arrayEach.js">
+      <file name="arrayEach.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayEach.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
@@ -475,7 +475,7 @@
         <line num="15" count="0" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
       </file>
-      <file name="arrayEachRight.js" path="/home/gifu/tty/soft_test/src/.internal/arrayEachRight.js">
+      <file name="arrayEachRight.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayEachRight.js">
         <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="12" count="0" type="stmt"/>
@@ -483,12 +483,12 @@
         <line num="14" count="0" type="stmt"/>
         <line num="17" count="0" type="stmt"/>
       </file>
-      <file name="arrayIncludes.js" path="/home/gifu/tty/soft_test/src/.internal/arrayIncludes.js">
+      <file name="arrayIncludes.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayIncludes.js">
         <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="arrayIncludesWith.js" path="/home/gifu/tty/soft_test/src/.internal/arrayIncludesWith.js">
+      <file name="arrayIncludesWith.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayIncludesWith.js">
         <metrics statements="6" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="12" count="0" type="stmt"/>
@@ -497,9 +497,9 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="arrayLikeKeys.js" path="/home/gifu/tty/soft_test/src/.internal/arrayLikeKeys.js">
-        <metrics statements="15" coveredstatements="0" conditionals="25" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="7" count="0" type="stmt"/>
+      <file name="arrayLikeKeys.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayLikeKeys.js">
+        <metrics statements="15" coveredstatements="1" conditionals="25" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="3"/>
@@ -515,17 +515,17 @@
         <line num="37" count="0" type="stmt"/>
         <line num="40" count="0" type="stmt"/>
       </file>
-      <file name="arrayReduce.js" path="/home/gifu/tty/soft_test/src/.internal/arrayReduce.js">
-        <metrics statements="7" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="13" count="0" type="stmt"/>
-        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="16" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="22" count="0" type="stmt"/>
+      <file name="arrayReduce.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayReduce.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
       </file>
-      <file name="arrayReduceRight.js" path="/home/gifu/tty/soft_test/src/.internal/arrayReduceRight.js">
+      <file name="arrayReduceRight.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\arrayReduceRight.js">
         <metrics statements="6" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="4"/>
@@ -534,20 +534,20 @@
         <line num="18" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="asciiSize.js" path="/home/gifu/tty/soft_test/src/.internal/asciiSize.js">
+      <file name="asciiSize.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\asciiSize.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="asciiToArray.js" path="/home/gifu/tty/soft_test/src/.internal/asciiToArray.js">
+      <file name="asciiToArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\asciiToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="assignMergeValue.js" path="/home/gifu/tty/soft_test/src/.internal/assignMergeValue.js">
+      <file name="assignMergeValue.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\assignMergeValue.js">
         <metrics statements="2" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="6"/>
         <line num="16" count="0" type="stmt"/>
       </file>
-      <file name="assignValue.js" path="/home/gifu/tty/soft_test/src/.internal/assignValue.js">
+      <file name="assignValue.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\assignValue.js">
         <metrics statements="7" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
@@ -557,7 +557,7 @@
         <line num="22" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="23" count="0" type="stmt"/>
       </file>
-      <file name="assocIndexOf.js" path="/home/gifu/tty/soft_test/src/.internal/assocIndexOf.js">
+      <file name="assocIndexOf.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\assocIndexOf.js">
         <metrics statements="5" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -565,13 +565,13 @@
         <line num="15" count="0" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
       </file>
-      <file name="baseAssignValue.js" path="/home/gifu/tty/soft_test/src/.internal/baseAssignValue.js">
+      <file name="baseAssignValue.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseAssignValue.js">
         <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="12" count="0" type="stmt"/>
         <line num="19" count="0" type="stmt"/>
       </file>
-      <file name="baseAt.js" path="/home/gifu/tty/soft_test/src/.internal/baseAt.js">
+      <file name="baseAt.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseAt.js">
         <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -581,7 +581,7 @@
         <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="baseClone.js" path="/home/gifu/tty/soft_test/src/.internal/baseClone.js">
+      <file name="baseClone.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseClone.js">
         <metrics statements="96" coveredstatements="0" conditionals="80" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="25" count="0" type="stmt"/>
         <line num="26" count="0" type="stmt"/>
@@ -680,12 +680,12 @@
         <line num="236" count="0" type="stmt"/>
         <line num="238" count="0" type="stmt"/>
       </file>
-      <file name="baseConforms.js" path="/home/gifu/tty/soft_test/src/.internal/baseConforms.js">
+      <file name="baseConforms.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseConforms.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="baseConformsTo.js" path="/home/gifu/tty/soft_test/src/.internal/baseConformsTo.js">
+      <file name="baseConformsTo.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseConformsTo.js">
         <metrics statements="11" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -699,7 +699,7 @@
         <line num="21" count="0" type="stmt"/>
         <line num="24" count="0" type="stmt"/>
       </file>
-      <file name="baseDifference.js" path="/home/gifu/tty/soft_test/src/.internal/baseDifference.js">
+      <file name="baseDifference.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseDifference.js">
         <metrics statements="29" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="8" count="0" type="stmt"/>
         <line num="22" count="0" type="stmt"/>
@@ -731,21 +731,21 @@
         <line num="57" count="0" type="stmt"/>
         <line num="60" count="0" type="stmt"/>
       </file>
-      <file name="baseEach.js" path="/home/gifu/tty/soft_test/src/.internal/baseEach.js">
-        <metrics statements="11" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="baseEach.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseEach.js">
+        <metrics statements="11" coveredstatements="9" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="13" count="4" type="cond" truecount="1" falsecount="1"/>
         <line num="14" count="0" type="stmt"/>
-        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="21" count="0" type="stmt"/>
-        <line num="23" count="0" type="stmt"/>
-        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="3" type="cond" truecount="1" falsecount="1"/>
         <line num="25" count="0" type="stmt"/>
-        <line num="28" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
       </file>
-      <file name="baseEachRight.js" path="/home/gifu/tty/soft_test/src/.internal/baseEachRight.js">
+      <file name="baseEachRight.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseEachRight.js">
         <metrics statements="10" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="stmt"/>
@@ -758,7 +758,7 @@
         <line num="24" count="0" type="stmt"/>
         <line num="27" count="0" type="stmt"/>
       </file>
-      <file name="baseFindIndex.js" path="/home/gifu/tty/soft_test/src/.internal/baseFindIndex.js">
+      <file name="baseFindIndex.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseFindIndex.js">
         <metrics statements="6" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -767,7 +767,7 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="baseFindKey.js" path="/home/gifu/tty/soft_test/src/.internal/baseFindKey.js">
+      <file name="baseFindKey.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseFindKey.js">
         <metrics statements="5" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -775,7 +775,7 @@
         <line num="16" count="0" type="stmt"/>
         <line num="19" count="0" type="stmt"/>
       </file>
-      <file name="baseFlatten.js" path="/home/gifu/tty/soft_test/src/.internal/baseFlatten.js">
+      <file name="baseFlatten.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseFlatten.js">
         <metrics statements="12" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -790,27 +790,27 @@
         <line num="31" count="0" type="stmt"/>
         <line num="34" count="0" type="stmt"/>
       </file>
-      <file name="baseFor.js" path="/home/gifu/tty/soft_test/src/.internal/baseFor.js">
-        <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="13" count="0" type="stmt"/>
-        <line num="14" count="0" type="stmt"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="16" count="0" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="baseFor.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseFor.js">
+        <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="1" falsecount="1"/>
         <line num="21" count="0" type="stmt"/>
-        <line num="24" count="0" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
       </file>
-      <file name="baseForOwn.js" path="/home/gifu/tty/soft_test/src/.internal/baseForOwn.js">
+      <file name="baseForOwn.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseForOwn.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="13" count="3" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="baseForOwnRight.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseForOwnRight.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseForOwnRight.js" path="/home/gifu/tty/soft_test/src/.internal/baseForOwnRight.js">
-        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
-      </file>
-      <file name="baseForRight.js" path="/home/gifu/tty/soft_test/src/.internal/baseForRight.js">
+      <file name="baseForRight.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseForRight.js">
         <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -821,7 +821,7 @@
         <line num="19" count="0" type="stmt"/>
         <line num="22" count="0" type="stmt"/>
       </file>
-      <file name="baseGet.js" path="/home/gifu/tty/soft_test/src/.internal/baseGet.js">
+      <file name="baseGet.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseGet.js">
         <metrics statements="6" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
@@ -830,15 +830,15 @@
         <line num="19" count="0" type="stmt"/>
         <line num="21" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="baseInRange.js" path="/home/gifu/tty/soft_test/src/.internal/baseInRange.js">
+      <file name="baseInRange.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseInRange.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseIndexOf.js" path="/home/gifu/tty/soft_test/src/.internal/baseIndexOf.js">
+      <file name="baseIndexOf.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIndexOf.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseIndexOfWith.js" path="/home/gifu/tty/soft_test/src/.internal/baseIndexOfWith.js">
+      <file name="baseIndexOfWith.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIndexOfWith.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -847,7 +847,7 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="baseIntersection.js" path="/home/gifu/tty/soft_test/src/.internal/baseIntersection.js">
+      <file name="baseIntersection.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIntersection.js">
         <metrics statements="31" coveredstatements="0" conditionals="32" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="19" count="0" type="stmt"/>
@@ -881,7 +881,7 @@
         <line num="66" count="0" type="stmt"/>
         <line num="69" count="0" type="stmt"/>
       </file>
-      <file name="baseIsEqual.js" path="/home/gifu/tty/soft_test/src/.internal/baseIsEqual.js">
+      <file name="baseIsEqual.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIsEqual.js">
         <metrics statements="5" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="20" count="0" type="stmt"/>
@@ -889,7 +889,7 @@
         <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="25" count="0" type="stmt"/>
       </file>
-      <file name="baseIsEqualDeep.js" path="/home/gifu/tty/soft_test/src/.internal/baseIsEqualDeep.js">
+      <file name="baseIsEqualDeep.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIsEqualDeep.js">
         <metrics statements="34" coveredstatements="0" conditionals="44" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -926,7 +926,7 @@
         <line num="75" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="76" count="0" type="stmt"/>
       </file>
-      <file name="baseIsMatch.js" path="/home/gifu/tty/soft_test/src/.internal/baseIsMatch.js">
+      <file name="baseIsMatch.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIsMatch.js">
         <metrics statements="26" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
         <line num="6" count="0" type="stmt"/>
@@ -955,18 +955,18 @@
         <line num="57" count="0" type="stmt"/>
         <line num="61" count="0" type="stmt"/>
       </file>
-      <file name="baseIsNaN.js" path="/home/gifu/tty/soft_test/src/.internal/baseIsNaN.js">
+      <file name="baseIsNaN.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseIsNaN.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="baseMatches.js" path="/home/gifu/tty/soft_test/src/.internal/baseMatches.js">
+      <file name="baseMatches.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseMatches.js">
         <metrics statements="4" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="15" count="0" type="stmt"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseMatchesProperty.js" path="/home/gifu/tty/soft_test/src/.internal/baseMatchesProperty.js">
+      <file name="baseMatchesProperty.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseMatchesProperty.js">
         <metrics statements="7" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
@@ -976,7 +976,7 @@
         <line num="26" count="0" type="stmt"/>
         <line num="27" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="baseMerge.js" path="/home/gifu/tty/soft_test/src/.internal/baseMerge.js">
+      <file name="baseMerge.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseMerge.js">
         <metrics statements="10" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="21" count="0" type="stmt"/>
@@ -989,7 +989,7 @@
         <line num="34" count="0" type="stmt"/>
         <line num="36" count="0" type="stmt"/>
       </file>
-      <file name="baseMergeDeep.js" path="/home/gifu/tty/soft_test/src/.internal/baseMergeDeep.js">
+      <file name="baseMergeDeep.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseMergeDeep.js">
         <metrics statements="37" coveredstatements="0" conditionals="36" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="30" count="0" type="stmt"/>
         <line num="31" count="0" type="stmt"/>
@@ -1029,7 +1029,7 @@
         <line num="86" count="0" type="stmt"/>
         <line num="88" count="0" type="stmt"/>
       </file>
-      <file name="baseOrderBy.js" path="/home/gifu/tty/soft_test/src/.internal/baseOrderBy.js">
+      <file name="baseOrderBy.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseOrderBy.js">
         <metrics statements="14" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="7" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -1046,11 +1046,11 @@
         <line num="39" count="0" type="stmt"/>
         <line num="46" count="0" type="stmt"/>
       </file>
-      <file name="basePick.js" path="/home/gifu/tty/soft_test/src/.internal/basePick.js">
+      <file name="basePick.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\basePick.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="14" count="0" type="stmt"/>
       </file>
-      <file name="basePickBy.js" path="/home/gifu/tty/soft_test/src/.internal/basePickBy.js">
+      <file name="basePickBy.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\basePickBy.js">
         <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
@@ -1062,19 +1062,19 @@
         <line num="23" count="0" type="stmt"/>
         <line num="26" count="0" type="stmt"/>
       </file>
-      <file name="baseProperty.js" path="/home/gifu/tty/soft_test/src/.internal/baseProperty.js">
+      <file name="baseProperty.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseProperty.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="basePropertyDeep.js" path="/home/gifu/tty/soft_test/src/.internal/basePropertyDeep.js">
+      <file name="basePropertyDeep.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\basePropertyDeep.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
       </file>
-      <file name="basePropertyOf.js" path="/home/gifu/tty/soft_test/src/.internal/basePropertyOf.js">
+      <file name="basePropertyOf.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\basePropertyOf.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="basePullAll.js" path="/home/gifu/tty/soft_test/src/.internal/basePullAll.js">
+      <file name="basePullAll.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\basePullAll.js">
         <metrics statements="17" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="18" count="0" type="stmt"/>
@@ -1094,7 +1094,7 @@
         <line num="38" count="0" type="stmt"/>
         <line num="41" count="0" type="stmt"/>
       </file>
-      <file name="basePullAt.js" path="/home/gifu/tty/soft_test/src/.internal/basePullAt.js">
+      <file name="basePullAt.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\basePullAt.js">
         <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="stmt"/>
@@ -1107,7 +1107,7 @@
         <line num="25" count="0" type="stmt"/>
         <line num="29" count="0" type="stmt"/>
       </file>
-      <file name="baseRange.js" path="/home/gifu/tty/soft_test/src/.internal/baseRange.js">
+      <file name="baseRange.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseRange.js">
         <metrics statements="7" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -1117,13 +1117,13 @@
         <line num="19" count="0" type="stmt"/>
         <line num="21" count="0" type="stmt"/>
       </file>
-      <file name="baseReduce.js" path="/home/gifu/tty/soft_test/src/.internal/baseReduce.js">
-        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="20" count="0" type="stmt"/>
+      <file name="baseReduce.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseReduce.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="4" type="stmt"/>
       </file>
-      <file name="baseSet.js" path="/home/gifu/tty/soft_test/src/.internal/baseSet.js">
+      <file name="baseSet.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseSet.js">
         <metrics statements="18" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="19" count="0" type="stmt"/>
@@ -1144,7 +1144,7 @@
         <line num="43" count="0" type="stmt"/>
         <line num="45" count="0" type="stmt"/>
       </file>
-      <file name="baseSortBy.js" path="/home/gifu/tty/soft_test/src/.internal/baseSortBy.js">
+      <file name="baseSortBy.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseSortBy.js">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -1152,7 +1152,7 @@
         <line num="16" count="0" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
       </file>
-      <file name="baseSortedIndex.js" path="/home/gifu/tty/soft_test/src/.internal/baseSortedIndex.js">
+      <file name="baseSortedIndex.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseSortedIndex.js">
         <metrics statements="13" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
         <line num="6" count="0" type="stmt"/>
@@ -1168,7 +1168,7 @@
         <line num="35" count="0" type="stmt"/>
         <line num="37" count="0" type="stmt"/>
       </file>
-      <file name="baseSortedIndexBy.js" path="/home/gifu/tty/soft_test/src/.internal/baseSortedIndexBy.js">
+      <file name="baseSortedIndexBy.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseSortedIndexBy.js">
         <metrics statements="33" coveredstatements="0" conditionals="34" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="5" count="0" type="stmt"/>
@@ -1204,7 +1204,7 @@
         <line num="59" count="0" type="stmt"/>
         <line num="62" count="0" type="stmt"/>
       </file>
-      <file name="baseSortedUniq.js" path="/home/gifu/tty/soft_test/src/.internal/baseSortedUniq.js">
+      <file name="baseSortedUniq.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseSortedUniq.js">
         <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -1217,7 +1217,7 @@
         <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="26" count="0" type="stmt"/>
       </file>
-      <file name="baseSum.js" path="/home/gifu/tty/soft_test/src/.internal/baseSum.js">
+      <file name="baseSum.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseSum.js">
         <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -1225,7 +1225,7 @@
         <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="18" count="0" type="stmt"/>
       </file>
-      <file name="baseToNumber.js" path="/home/gifu/tty/soft_test/src/.internal/baseToNumber.js">
+      <file name="baseToNumber.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseToNumber.js">
         <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
         <line num="15" count="10" type="cond" truecount="1" falsecount="1"/>
@@ -1234,7 +1234,7 @@
         <line num="19" count="0" type="stmt"/>
         <line num="21" count="0" type="stmt"/>
       </file>
-      <file name="baseToString.js" path="/home/gifu/tty/soft_test/src/.internal/baseToString.js">
+      <file name="baseToString.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseToString.js">
         <metrics statements="10" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
@@ -1247,7 +1247,7 @@
         <line num="29" count="0" type="stmt"/>
         <line num="30" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="baseUniq.js" path="/home/gifu/tty/soft_test/src/.internal/baseUniq.js">
+      <file name="baseUniq.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseUniq.js">
         <metrics statements="36" coveredstatements="0" conditionals="28" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
         <line num="21" count="0" type="stmt"/>
@@ -1286,28 +1286,28 @@
         <line num="67" count="0" type="stmt"/>
         <line num="70" count="0" type="stmt"/>
       </file>
-      <file name="baseUnset.js" path="/home/gifu/tty/soft_test/src/.internal/baseUnset.js">
+      <file name="baseUnset.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseUnset.js">
         <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseUpdate.js" path="/home/gifu/tty/soft_test/src/.internal/baseUpdate.js">
+      <file name="baseUpdate.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseUpdate.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="stmt"/>
       </file>
-      <file name="baseValues.js" path="/home/gifu/tty/soft_test/src/.internal/baseValues.js">
+      <file name="baseValues.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseValues.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseWhile.js" path="/home/gifu/tty/soft_test/src/.internal/baseWhile.js">
+      <file name="baseWhile.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseWhile.js">
         <metrics statements="4" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="14" count="0" type="stmt"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="baseXor.js" path="/home/gifu/tty/soft_test/src/.internal/baseXor.js">
+      <file name="baseXor.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseXor.js">
         <metrics statements="12" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="16" count="0" type="stmt"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -1322,7 +1322,7 @@
         <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="33" count="0" type="stmt"/>
       </file>
-      <file name="baseZipObject.js" path="/home/gifu/tty/soft_test/src/.internal/baseZipObject.js">
+      <file name="baseZipObject.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\baseZipObject.js">
         <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
@@ -1333,46 +1333,46 @@
         <line num="18" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="cacheHas.js" path="/home/gifu/tty/soft_test/src/.internal/cacheHas.js">
+      <file name="cacheHas.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cacheHas.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
       </file>
-      <file name="castArrayLikeObject.js" path="/home/gifu/tty/soft_test/src/.internal/castArrayLikeObject.js">
+      <file name="castArrayLikeObject.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\castArrayLikeObject.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="castPath.js" path="/home/gifu/tty/soft_test/src/.internal/castPath.js">
+      <file name="castPath.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\castPath.js">
         <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="stmt"/>
         <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="castSlice.js" path="/home/gifu/tty/soft_test/src/.internal/castSlice.js">
+      <file name="castSlice.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\castSlice.js">
         <metrics statements="3" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="charsEndIndex.js" path="/home/gifu/tty/soft_test/src/.internal/charsEndIndex.js">
+      <file name="charsEndIndex.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\charsEndIndex.js">
         <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="16" count="0" type="stmt"/>
       </file>
-      <file name="charsStartIndex.js" path="/home/gifu/tty/soft_test/src/.internal/charsStartIndex.js">
+      <file name="charsStartIndex.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\charsStartIndex.js">
         <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
         <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="17" count="0" type="stmt"/>
       </file>
-      <file name="cloneArrayBuffer.js" path="/home/gifu/tty/soft_test/src/.internal/cloneArrayBuffer.js">
+      <file name="cloneArrayBuffer.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cloneArrayBuffer.js">
         <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
         <line num="10" count="0" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
       </file>
-      <file name="cloneBuffer.js" path="/home/gifu/tty/soft_test/src/.internal/cloneBuffer.js">
+      <file name="cloneBuffer.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cloneBuffer.js">
         <metrics statements="10" coveredstatements="0" conditionals="19" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="7" count="0" type="cond" truecount="0" falsecount="5"/>
@@ -1385,29 +1385,29 @@
         <line num="30" count="0" type="stmt"/>
         <line num="31" count="0" type="stmt"/>
       </file>
-      <file name="cloneDataView.js" path="/home/gifu/tty/soft_test/src/.internal/cloneDataView.js">
+      <file name="cloneDataView.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cloneDataView.js">
         <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="cloneRegExp.js" path="/home/gifu/tty/soft_test/src/.internal/cloneRegExp.js">
+      <file name="cloneRegExp.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cloneRegExp.js">
         <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
       </file>
-      <file name="cloneSymbol.js" path="/home/gifu/tty/soft_test/src/.internal/cloneSymbol.js">
+      <file name="cloneSymbol.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cloneSymbol.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
       </file>
-      <file name="cloneTypedArray.js" path="/home/gifu/tty/soft_test/src/.internal/cloneTypedArray.js">
+      <file name="cloneTypedArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\cloneTypedArray.js">
         <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="compareAscending.js" path="/home/gifu/tty/soft_test/src/.internal/compareAscending.js">
+      <file name="compareAscending.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\compareAscending.js">
         <metrics statements="15" coveredstatements="0" conditionals="38" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="13" count="0" type="stmt"/>
@@ -1425,7 +1425,7 @@
         <line num="39" count="0" type="stmt"/>
         <line num="42" count="0" type="stmt"/>
       </file>
-      <file name="compareMultiple.js" path="/home/gifu/tty/soft_test/src/.internal/compareMultiple.js">
+      <file name="compareMultiple.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\compareMultiple.js">
         <metrics statements="14" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="18" count="0" type="stmt"/>
         <line num="19" count="0" type="stmt"/>
@@ -1442,7 +1442,7 @@
         <line num="32" count="0" type="stmt"/>
         <line num="42" count="0" type="stmt"/>
       </file>
-      <file name="composeArgs.js" path="/home/gifu/tty/soft_test/src/.internal/composeArgs.js">
+      <file name="composeArgs.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\composeArgs.js">
         <metrics statements="16" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -1461,7 +1461,7 @@
         <line num="33" count="0" type="stmt"/>
         <line num="35" count="0" type="stmt"/>
       </file>
-      <file name="composeArgsRight.js" path="/home/gifu/tty/soft_test/src/.internal/composeArgsRight.js">
+      <file name="composeArgsRight.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\composeArgsRight.js">
         <metrics statements="18" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -1482,7 +1482,7 @@
         <line num="33" count="0" type="stmt"/>
         <line num="36" count="0" type="stmt"/>
       </file>
-      <file name="copyArray.js" path="/home/gifu/tty/soft_test/src/.internal/copyArray.js">
+      <file name="copyArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\copyArray.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
@@ -1491,7 +1491,7 @@
         <line num="15" count="0" type="stmt"/>
         <line num="17" count="0" type="stmt"/>
       </file>
-      <file name="copyObject.js" path="/home/gifu/tty/soft_test/src/.internal/copyObject.js">
+      <file name="copyObject.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\copyObject.js">
         <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="15" count="0" type="stmt"/>
         <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -1504,15 +1504,15 @@
         <line num="29" count="0" type="stmt"/>
         <line num="32" count="0" type="stmt"/>
       </file>
-      <file name="copySymbols.js" path="/home/gifu/tty/soft_test/src/.internal/copySymbols.js">
+      <file name="copySymbols.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\copySymbols.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="copySymbolsIn.js" path="/home/gifu/tty/soft_test/src/.internal/copySymbolsIn.js">
+      <file name="copySymbolsIn.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\copySymbolsIn.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="createAssigner.js" path="/home/gifu/tty/soft_test/src/.internal/createAssigner.js">
+      <file name="createAssigner.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createAssigner.js">
         <metrics statements="15" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
@@ -1530,7 +1530,7 @@
         <line num="29" count="0" type="stmt"/>
         <line num="32" count="0" type="stmt"/>
       </file>
-      <file name="createCaseFirst.js" path="/home/gifu/tty/soft_test/src/.internal/createCaseFirst.js">
+      <file name="createCaseFirst.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createCaseFirst.js">
         <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="4" methods="2" coveredmethods="2"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="3" type="cond" truecount="1" falsecount="1"/>
@@ -1540,7 +1540,7 @@
         <line num="26" count="3" type="cond" truecount="1" falsecount="1"/>
         <line num="30" count="3" type="stmt"/>
       </file>
-      <file name="createMathOperation.js" path="/home/gifu/tty/soft_test/src/.internal/createMathOperation.js">
+      <file name="createMathOperation.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createMathOperation.js">
         <metrics statements="13" coveredstatements="11" conditionals="16" coveredconditionals="15" methods="2" coveredmethods="2"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="8" type="cond" truecount="4" falsecount="0"/>
@@ -1556,7 +1556,7 @@
         <line num="29" count="5" type="stmt"/>
         <line num="31" count="5" type="stmt"/>
       </file>
-      <file name="createPadding.js" path="/home/gifu/tty/soft_test/src/.internal/createPadding.js">
+      <file name="createPadding.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createPadding.js">
         <metrics statements="6" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="20" count="0" type="stmt"/>
@@ -1565,7 +1565,7 @@
         <line num="24" count="0" type="stmt"/>
         <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="createRange.js" path="/home/gifu/tty/soft_test/src/.internal/createRange.js">
+      <file name="createRange.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createRange.js">
         <metrics statements="8" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
@@ -1576,25 +1576,25 @@
         <line num="21" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="22" count="0" type="stmt"/>
       </file>
-      <file name="createRound.js" path="/home/gifu/tty/soft_test/src/.internal/createRound.js">
-        <metrics statements="9" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="16" count="0" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="21" count="0" type="stmt"/>
+      <file name="createRound.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createRound.js">
+        <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="18" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+        <line num="21" count="9" type="stmt"/>
       </file>
-      <file name="createSet.js" path="/home/gifu/tty/soft_test/src/.internal/createSet.js">
+      <file name="createSet.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\createSet.js">
         <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="14" count="0" type="stmt"/>
       </file>
-      <file name="customDefaultsMerge.js" path="/home/gifu/tty/soft_test/src/.internal/customDefaultsMerge.js">
+      <file name="customDefaultsMerge.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\customDefaultsMerge.js">
         <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="21" count="0" type="stmt"/>
@@ -1602,12 +1602,12 @@
         <line num="23" count="0" type="stmt"/>
         <line num="25" count="0" type="stmt"/>
       </file>
-      <file name="deburrLetter.js" path="/home/gifu/tty/soft_test/src/.internal/deburrLetter.js">
+      <file name="deburrLetter.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\deburrLetter.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="69" count="0" type="stmt"/>
       </file>
-      <file name="equalArrays.js" path="/home/gifu/tty/soft_test/src/.internal/equalArrays.js">
+      <file name="equalArrays.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\equalArrays.js">
         <metrics statements="37" coveredstatements="0" conditionals="33" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="6" count="0" type="stmt"/>
         <line num="7" count="0" type="stmt"/>
@@ -1647,7 +1647,7 @@
         <line num="80" count="0" type="stmt"/>
         <line num="81" count="0" type="stmt"/>
       </file>
-      <file name="equalByTag.js" path="/home/gifu/tty/soft_test/src/.internal/equalByTag.js">
+      <file name="equalByTag.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\equalByTag.js">
         <metrics statements="41" coveredstatements="0" conditionals="31" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
         <line num="8" count="0" type="stmt"/>
@@ -1691,7 +1691,7 @@
         <line num="103" count="0" type="stmt"/>
         <line num="106" count="0" type="stmt"/>
       </file>
-      <file name="equalObjects.js" path="/home/gifu/tty/soft_test/src/.internal/equalObjects.js">
+      <file name="equalObjects.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\equalObjects.js">
         <metrics statements="39" coveredstatements="0" conditionals="38" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="7" count="0" type="stmt"/>
@@ -1733,18 +1733,18 @@
         <line num="84" count="0" type="stmt"/>
         <line num="85" count="0" type="stmt"/>
       </file>
-      <file name="freeGlobal.js" path="/home/gifu/tty/soft_test/src/.internal/freeGlobal.js">
-        <metrics statements="1" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="2" count="0" type="cond" truecount="0" falsecount="4"/>
+      <file name="freeGlobal.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\freeGlobal.js">
+        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
       </file>
-      <file name="getAllKeys.js" path="/home/gifu/tty/soft_test/src/.internal/getAllKeys.js">
+      <file name="getAllKeys.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getAllKeys.js">
         <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
       </file>
-      <file name="getAllKeysIn.js" path="/home/gifu/tty/soft_test/src/.internal/getAllKeysIn.js">
+      <file name="getAllKeysIn.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getAllKeysIn.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
@@ -1753,12 +1753,12 @@
         <line num="16" count="0" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
       </file>
-      <file name="getHolder.js" path="/home/gifu/tty/soft_test/src/.internal/getHolder.js">
+      <file name="getHolder.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getHolder.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
         <line num="10" count="0" type="stmt"/>
       </file>
-      <file name="getMatchData.js" path="/home/gifu/tty/soft_test/src/.internal/getMatchData.js">
+      <file name="getMatchData.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getMatchData.js">
         <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -1768,7 +1768,7 @@
         <line num="18" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="getSymbols.js" path="/home/gifu/tty/soft_test/src/.internal/getSymbols.js">
+      <file name="getSymbols.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getSymbols.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
         <line num="5" count="0" type="stmt"/>
@@ -1777,7 +1777,7 @@
         <line num="18" count="0" type="stmt"/>
         <line num="19" count="0" type="stmt"/>
       </file>
-      <file name="getSymbolsIn.js" path="/home/gifu/tty/soft_test/src/.internal/getSymbolsIn.js">
+      <file name="getSymbolsIn.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getSymbolsIn.js">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
@@ -1785,14 +1785,14 @@
         <line num="14" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
       </file>
-      <file name="getTag.js" path="/home/gifu/tty/soft_test/src/.internal/getTag.js">
-        <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-        <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="getTag.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\getTag.js">
+        <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="11" count="12" type="cond" truecount="1" falsecount="1"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="14" count="0" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
       </file>
-      <file name="hasUnicode.js" path="/home/gifu/tty/soft_test/src/.internal/hasUnicode.js">
+      <file name="hasUnicode.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\hasUnicode.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -1806,24 +1806,24 @@
         <line num="15" count="1" type="stmt"/>
         <line num="25" count="3" type="stmt"/>
       </file>
-      <file name="initCloneObject.js" path="/home/gifu/tty/soft_test/src/.internal/initCloneObject.js">
+      <file name="initCloneObject.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\initCloneObject.js">
         <metrics statements="1" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="isFlattenable.js" path="/home/gifu/tty/soft_test/src/.internal/isFlattenable.js">
+      <file name="isFlattenable.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\isFlattenable.js">
         <metrics statements="2" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="3"/>
       </file>
-      <file name="isIndex.js" path="/home/gifu/tty/soft_test/src/.internal/isIndex.js">
-        <metrics statements="5" coveredstatements="0" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="0" type="stmt"/>
-        <line num="5" count="0" type="stmt"/>
+      <file name="isIndex.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\isIndex.js">
+        <metrics statements="5" coveredstatements="2" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
         <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="19" count="0" type="cond" truecount="0" falsecount="7"/>
       </file>
-      <file name="isIterateeCall.js" path="/home/gifu/tty/soft_test/src/.internal/isIterateeCall.js">
+      <file name="isIterateeCall.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\isIterateeCall.js">
         <metrics statements="6" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="19" count="0" type="stmt"/>
@@ -1832,7 +1832,7 @@
         <line num="26" count="0" type="stmt"/>
         <line num="28" count="0" type="stmt"/>
       </file>
-      <file name="isKey.js" path="/home/gifu/tty/soft_test/src/.internal/isKey.js">
+      <file name="isKey.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\isKey.js">
         <metrics statements="8" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="5" count="0" type="stmt"/>
@@ -1843,25 +1843,25 @@
         <line num="21" count="0" type="stmt"/>
         <line num="23" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="isPrototype.js" path="/home/gifu/tty/soft_test/src/.internal/isPrototype.js">
-        <metrics statements="4" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="0" type="stmt"/>
-        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="13" count="0" type="cond" truecount="0" falsecount="3"/>
-        <line num="15" count="0" type="stmt"/>
+      <file name="isPrototype.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\isPrototype.js">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="12" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="6" type="cond" truecount="2" falsecount="1"/>
+        <line num="15" count="6" type="stmt"/>
       </file>
-      <file name="isStrictComparable.js" path="/home/gifu/tty/soft_test/src/.internal/isStrictComparable.js">
+      <file name="isStrictComparable.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\isStrictComparable.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="iteratorToArray.js" path="/home/gifu/tty/soft_test/src/.internal/iteratorToArray.js">
+      <file name="iteratorToArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\iteratorToArray.js">
         <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
       </file>
-      <file name="mapToArray.js" path="/home/gifu/tty/soft_test/src/.internal/mapToArray.js">
+      <file name="mapToArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\mapToArray.js">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
         <line num="10" count="0" type="stmt"/>
@@ -1869,14 +1869,14 @@
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
       </file>
-      <file name="matchesStrictComparable.js" path="/home/gifu/tty/soft_test/src/.internal/matchesStrictComparable.js">
+      <file name="matchesStrictComparable.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\matchesStrictComparable.js">
         <metrics statements="4" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="11" count="0" type="stmt"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="3"/>
       </file>
-      <file name="memoizeCapped.js" path="/home/gifu/tty/soft_test/src/.internal/memoizeCapped.js">
+      <file name="memoizeCapped.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\memoizeCapped.js">
         <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
@@ -1886,43 +1886,43 @@
         <line num="20" count="0" type="stmt"/>
         <line num="23" count="0" type="stmt"/>
       </file>
-      <file name="metaMap.js" path="/home/gifu/tty/soft_test/src/.internal/metaMap.js">
+      <file name="metaMap.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\metaMap.js">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
-      <file name="nodeTypes.js" path="/home/gifu/tty/soft_test/src/.internal/nodeTypes.js">
-        <metrics statements="8" coveredstatements="0" conditionals="21" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="7" count="0" type="cond" truecount="0" falsecount="5"/>
-        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="16" count="0" type="stmt"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="20" count="0" type="cond" truecount="0" falsecount="3"/>
-        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+      <file name="nodeTypes.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\nodeTypes.js">
+        <metrics statements="8" coveredstatements="8" conditionals="21" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="cond" truecount="1" falsecount="3"/>
+        <line num="7" count="2" type="cond" truecount="1" falsecount="4"/>
+        <line num="10" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="1" falsecount="2"/>
+        <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
       </file>
-      <file name="parent.js" path="/home/gifu/tty/soft_test/src/.internal/parent.js">
+      <file name="parent.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\parent.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="reEscape.js" path="/home/gifu/tty/soft_test/src/.internal/reEscape.js">
+      <file name="reEscape.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\reEscape.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
       </file>
-      <file name="reEvaluate.js" path="/home/gifu/tty/soft_test/src/.internal/reEvaluate.js">
+      <file name="reEvaluate.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\reEvaluate.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
       </file>
-      <file name="reInterpolate.js" path="/home/gifu/tty/soft_test/src/.internal/reInterpolate.js">
+      <file name="reInterpolate.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\reInterpolate.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
       </file>
-      <file name="root.js" path="/home/gifu/tty/soft_test/src/.internal/root.js">
-        <metrics statements="3" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="5" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="8" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="11" count="0" type="cond" truecount="0" falsecount="4"/>
+      <file name="root.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\root.js">
+        <metrics statements="3" coveredstatements="3" conditionals="12" coveredconditionals="6" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="8" count="2" type="cond" truecount="1" falsecount="3"/>
+        <line num="11" count="2" type="cond" truecount="1" falsecount="3"/>
       </file>
-      <file name="setToArray.js" path="/home/gifu/tty/soft_test/src/.internal/setToArray.js">
+      <file name="setToArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\setToArray.js">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
         <line num="10" count="0" type="stmt"/>
@@ -1930,7 +1930,7 @@
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
       </file>
-      <file name="setToPairs.js" path="/home/gifu/tty/soft_test/src/.internal/setToPairs.js">
+      <file name="setToPairs.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\setToPairs.js">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
         <line num="10" count="0" type="stmt"/>
@@ -1938,12 +1938,12 @@
         <line num="13" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
       </file>
-      <file name="setToString.js" path="/home/gifu/tty/soft_test/src/.internal/setToString.js">
+      <file name="setToString.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\setToString.js">
         <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="strictIndexOf.js" path="/home/gifu/tty/soft_test/src/.internal/strictIndexOf.js">
+      <file name="strictIndexOf.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\strictIndexOf.js">
         <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -1952,7 +1952,7 @@
         <line num="17" count="0" type="stmt"/>
         <line num="20" count="0" type="stmt"/>
       </file>
-      <file name="strictLastIndexOf.js" path="/home/gifu/tty/soft_test/src/.internal/strictLastIndexOf.js">
+      <file name="strictLastIndexOf.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\strictLastIndexOf.js">
         <metrics statements="5" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -1960,15 +1960,15 @@
         <line num="15" count="0" type="stmt"/>
         <line num="18" count="0" type="stmt"/>
       </file>
-      <file name="stringSize.js" path="/home/gifu/tty/soft_test/src/.internal/stringSize.js">
+      <file name="stringSize.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\stringSize.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="stringToArray.js" path="/home/gifu/tty/soft_test/src/.internal/stringToArray.js">
+      <file name="stringToArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\stringToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="stringToPath.js" path="/home/gifu/tty/soft_test/src/.internal/stringToPath.js">
+      <file name="stringToPath.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\stringToPath.js">
         <metrics statements="15" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="3" count="0" type="stmt"/>
         <line num="4" count="0" type="stmt"/>
@@ -1986,7 +1986,7 @@
         <line num="39" count="0" type="stmt"/>
         <line num="41" count="0" type="stmt"/>
       </file>
-      <file name="toKey.js" path="/home/gifu/tty/soft_test/src/.internal/toKey.js">
+      <file name="toKey.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\toKey.js">
         <metrics statements="5" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="4"/>
@@ -1994,7 +1994,7 @@
         <line num="17" count="0" type="stmt"/>
         <line num="18" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="unicodeSize.js" path="/home/gifu/tty/soft_test/src/.internal/unicodeSize.js">
+      <file name="unicodeSize.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\unicodeSize.js">
         <metrics statements="27" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="0" type="stmt"/>
         <line num="3" count="0" type="stmt"/>
@@ -2024,7 +2024,7 @@
         <line num="42" count="0" type="stmt"/>
         <line num="44" count="0" type="stmt"/>
       </file>
-      <file name="unicodeToArray.js" path="/home/gifu/tty/soft_test/src/.internal/unicodeToArray.js">
+      <file name="unicodeToArray.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\unicodeToArray.js">
         <metrics statements="24" coveredstatements="23" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -2051,7 +2051,7 @@
         <line num="30" count="1" type="stmt"/>
         <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="unicodeWords.js" path="/home/gifu/tty/soft_test/src/.internal/unicodeWords.js">
+      <file name="unicodeWords.js" path="C:\Users\idiootti\git\SoftwareTester2025\software_testing2025\src\.internal\unicodeWords.js">
         <metrics statements="43" coveredstatements="43" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
