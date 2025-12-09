@@ -1,4 +1,4 @@
-import add from './add.js';
+import add from '../src/add.js';
 
 describe('add', () => {
   it('adds two positive numbers', () => {

@@ -1,4 +1,4 @@
-import camelCase from "./camelCase.js";
+import camelCase from "../src/camelCase.js";
 
 describe("camelCase()", () => {
   it("converts normal strings", () => {
