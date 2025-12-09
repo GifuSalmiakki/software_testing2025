@@ -1,11 +1,10 @@
 {
   "name": "software-testing-assignment",
   "version": "1.0.0",
-  "description": "This is a project template for students participating in Software Testing course at Tampere University.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no tests are implemented yet \" && exit 1"
+  "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
   },
   "author": "",
   "license": "MIT",
