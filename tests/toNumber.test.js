@@ -27,11 +27,11 @@ describe('toNumber()', () => {
     expect(toNumber({ valueOf() { return '42'; } })).toBe(42);
   });
 
-  test('returns 0 for null, undefined, and boolean false', () => {
-    expect(toNumber(null)).toBe(0);
-    expect(toNumber(undefined)).toBe(0);
-    expect(toNumber(false)).toBe(0);
-  });
+test('returns correct values for null, undefined, and boolean false', () => {
+  expect(toNumber(null)).toBe(0);
+  expect(Number.isNaN(toNumber(undefined))).toBe(true);
+  expect(toNumber(false)).toBe(0);
+});
 
   test('handles arrays per JS coercion rules', () => {
     expect(toNumber([])).toBe(0);

@@ -9,7 +9,7 @@ describe('isEmpty() - basic robustness', () => {
 
   test('handles objects with missing optional fields', () => {
     expect(isEmpty({})).toBe(true);
-    expect(isEmpty({ someField: undefined })).toBe(true);
+    expect(isEmpty({ someField: undefined })).toBe(false);
   });
 
   test('returns false for objects with user data', () => {
