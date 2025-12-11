@@ -3,13 +3,21 @@ Testing JavaScript source files with npm and jest, coverage report from Coverall
 [![Coverage Status](https://coveralls.io/repos/github/GifuSalmiakki/software_testing2025/badge.svg)](https://coveralls.io/github/GifuSalmiakki/software_testing2025)
 
 **Requirements:**
+
 Node.js version 18 or higher 
+
 npm 
+
 **How to run the tests:**
+
 git clone https://github.com/GifuSalmiakki/software_testing2025.git
+
 cd software_testing2025
+
 npm install
+
 npm test
+
 Local coverage report will be generated to coverage/lcov-report/index.html
 
 
