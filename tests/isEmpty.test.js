@@ -1,29 +1,60 @@
 import isEmpty from '../src/isEmpty.js';
 
-describe('isEmpty() - basic robustness', () => {
-  test('handles null, undefined, and empty strings without error', () => {
+describe('isEmpty()', () => {
+
+  test('returns true for numbers', () => {
+    expect(isEmpty(0)).toBe(true);
+    expect(isEmpty(67)).toBe(true);
+    expect(isEmpty(-1)).toBe(true);
+  });
+
+  test('returns true for booleans', () => {
+    expect(isEmpty(true)).toBe(true);
+    expect(isEmpty(false)).toBe(true);
+  });
+
+  test('returns true for null or undefined', () => {
     expect(isEmpty(null)).toBe(true);
     expect(isEmpty(undefined)).toBe(true);
+  });
+
+  test('returns true for empty string', () => {
     expect(isEmpty('')).toBe(true);
   });
 
-  test('handles objects with missing optional fields', () => {
-    expect(isEmpty({})).toBe(true);
-    expect(isEmpty({ someField: undefined })).toBe(false);
+  test('returns false for non-empty string', () => {
+    expect(isEmpty('hello world')).toBe(false);
   });
 
-  test('returns false for objects with user data', () => {
-    expect(isEmpty({ name: 'Alice', email: 'alice@example.com' })).toBe(false);
-  });
-
-  test('handles arrays and collections gracefully', () => {
+  test('returns true for empty array', () => {
     expect(isEmpty([])).toBe(true);
-    expect(isEmpty([1, 2, 3])).toBe(false);
   });
 
-  test('does not throw on unexpected inputs', () => {
-    expect(() => isEmpty(() => {})).not.toThrow();
-    expect(() => isEmpty(Symbol())).not.toThrow();
-    expect(() => isEmpty(42)).not.toThrow();
+  test('returns false for non-empty array', () => {
+    expect(isEmpty([6, 7, 8])).toBe(false);
+  });
+
+  test('returns true for empty object', () => {
+    expect(isEmpty({})).toBe(true);
+  });
+
+  test('returns false for object with properties', () => {
+    expect(isEmpty({ key: 'value' })).toBe(false);
+  });
+
+  test('returns true for empty Map and Set', () => {
+    expect(isEmpty(new Map())).toBe(true);
+    expect(isEmpty(new Set())).toBe(true);
+  });
+
+  test('returns false for non-empty Map and Set', () => {
+    const map = new Map();
+    map.set('a', 1);
+
+    const set = new Set();
+    set.add(1);
+
+    expect(isEmpty(map)).toBe(false);
+    expect(isEmpty(set)).toBe(false);
   });
 });

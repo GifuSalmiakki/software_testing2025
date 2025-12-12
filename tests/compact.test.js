@@ -2,7 +2,7 @@ import compact from '../src/compact.js';
 
 describe('compact()', () => {
   test('removes falsey values from array', () => {
-    expect(compact([0, 1, false, 2, "", 3])).toEqual([1, 2, 3]);
+    expect(compact([0, 1, false, 2, '', 3])).toEqual([1, 2, 3]);
   });
 
   test('returns empty array when given empty array', () => {
@@ -15,7 +15,7 @@ describe('compact()', () => {
   });
 
   test('removes null, undefined, NaN', () => {
-    expect(compact([null, undefined, NaN, 1, "a"])).toEqual([1]);
+    expect(compact([null, undefined, NaN, 1, "a"])).toEqual([1, "a"]);
   });
 
   test('handles array with only falsey values', () => {
